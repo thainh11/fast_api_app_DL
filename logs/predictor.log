@@ -1,0 +1,62 @@
+2024-03-28 15:12:16,026 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 15:12:16,221 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - ERROR - Load model failed
+2024-03-28 15:12:16,221 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\Work\\fast_api_app_DL\\model\\weights\\catdog_weights.pt'
+2024-03-28 15:15:44,476 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 15:15:44,629 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - ERROR - Load model failed
+2024-03-28 15:15:44,629 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\Work\\fast_api_app_DL\\model\\weights\\catdog_weights.pt'
+2024-03-28 15:17:31,765 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 15:17:31,898 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - ERROR - Load model failed
+2024-03-28 15:17:31,899 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\Work\\fast_api_app_DL\\model\\weights\\catdog_weights.pt'
+2024-03-28 15:29:54,350 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 15:29:54,528 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - ERROR - Load model failed
+2024-03-28 15:29:54,528 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\Work\\fast_api_app_DL\\model\\weights\\catdog_weights.pt'
+2024-03-28 15:32:24,237 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 15:32:24,385 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - ERROR - Load model failed
+2024-03-28 15:32:24,386 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\Work\\fast_api_app_DL\\model\\weights\\catdog_weights.pt'
+2024-03-28 15:37:01,410 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 15:37:01,561 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - ERROR - Load model failed
+2024-03-28 15:37:01,561 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\Work\\fast_api_app_DL\\model\\weights\\catdog_weights.pt'
+2024-03-28 16:18:28,701 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 16:18:28,847 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - ERROR - Load model failed
+2024-03-28 16:18:28,847 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\Work\\fast_api_app_DL\\model\\weights\\catdog_weights.pt'
+2024-03-28 16:33:16,606 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 16:33:16,779 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - ERROR - Load model failed
+2024-03-28 16:33:16,780 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\Work\\fast_api_app_DL\\model\\weights\\catdog_weights.pt'
+2024-03-28 16:33:59,995 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 16:34:00,134 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - ERROR - Load model failed
+2024-03-28 16:34:00,134 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\Work\\fast_api_app_DL\\model\\weights\\catdog_weights.pt'
+2024-03-28 16:43:01,536 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 16:43:28,522 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 16:44:11,376 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 16:45:19,069 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 16:46:18,467 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 16:46:31,586 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 16:46:37,714 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 16:47:52,196 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 16:48:57,033 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 16:50:19,263 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 16:50:28,932 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 16:51:18,265 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 16:52:47,419 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 16:53:37,736 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 16:53:53,638 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Predicted Prob: 0.608927, Predicted ID: 0, Predicted Class: Cat
+2024-03-28 16:54:24,767 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 16:54:51,790 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Predicted Prob: 0.608927, Predicted ID: 0, Predicted Class: Cat
+2024-03-28 16:56:38,451 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 16:56:49,705 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Predictor Name: resnet18
+2024-03-28 16:56:49,705 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Predicted Prob: 0.636196, Predicted ID: 0, Predicted Class: Cat
+2024-03-28 16:57:14,316 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-28 16:57:33,814 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Predictor Name: resnet18
+2024-03-28 16:57:33,814 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Predicted Prob: 0.636196, Predicted ID: 0, Predicted Class: Cat
+2024-03-29 10:26:11,599 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
+2024-03-29 10:27:03,467 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Predictor Name: resnet18
+2024-03-29 10:27:03,467 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Predicted Prob: 0.608927, Predicted ID: 0, Predicted Class: Cat
+2024-03-29 10:27:51,396 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Predictor Name: resnet18
+2024-03-29 10:27:51,396 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Predicted Prob: 0.78827, Predicted ID: 0, Predicted Class: Cat
+2024-03-29 10:27:55,680 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Predictor Name: resnet18
+2024-03-29 10:27:55,680 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Predicted Prob: 0.78827, Predicted ID: 0, Predicted Class: Cat
+2024-03-29 10:27:56,671 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Predictor Name: resnet18
+2024-03-29 10:27:56,671 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Predicted Prob: 0.78827, Predicted ID: 0, Predicted Class: Cat
+2024-03-29 10:27:57,443 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Predictor Name: resnet18
+2024-03-29 10:27:57,443 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Predicted Prob: 0.78827, Predicted ID: 0, Predicted Class: Cat
+2024-04-02 15:14:09,356 - D:\Work\fast_api_app_DL\models\catdog_predictor.py - INFO - Starting predictor
